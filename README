@@ -1,3 +1,1 @@
-From http://www.softwaresecretweapons.com/ with it's IS_LUNIX line patched to !"Windows" vs "Linux".
-Execute: ant -f patch.xml
-
+Moved to https://gitlab.com/eghm-lab/oy-lm
